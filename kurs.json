@@ -1,0 +1,214 @@
+{
+  "nivåer": [
+    {
+      "id": "A1",
+      "label": "A1",
+      "moduler": [
+        {
+          "id": "A1.1",
+          "label": "A1.1",
+          "timepar": [
+            {
+              "id": "A1.1-T1",
+              "label": "Time 1–2",
+              "timer": [1, 2],
+              "dato": null,
+              "marugoto_leksjoner": [1, 2],
+              "grammatikk": [
+                "Hajimemashite / Yoroshiku onegaishimasu",
+                "Greetings (あいさつ)"
+              ],
+              "vokabular_sider": [6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19],
+              "lenker": [
+                "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L01.pdf",
+                "https://www.irodori.jpf.go.jp/starter/audio/lesson01.html"
+              ],
+              "notater": "Første kurstime. Hilsener, klasseromsfraser, folk, jobb, familie, land."
+            },
+            {
+              "id": "A1.1-T2",
+              "label": "Time 3–4",
+              "timer": [3, 4],
+              "dato": "2023-01-17",
+              "marugoto_leksjoner": [3, 4],
+              "grammatikk": [
+                "N wa N desu",
+                "N mo N desu",
+                "N wa N desu ka",
+                "Hai / Iie, N wa N jya nai desu",
+                "Hajimemashite (repetisjon)"
+              ],
+              "vokabular_sider": [6, 10, 16, 17, 20, 80],
+              "lenker": [
+                "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L04.pdf",
+                "https://www.irodori.jpf.go.jp/starter/audio/lesson04.html",
+                "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L01.pdf",
+                "https://www.irodori.jpf.go.jp/starter/audio/lesson01.html",
+                "https://a1.marugotoweb.jp/en/can-do1.php"
+              ],
+              "notater": "Folk, familie, tall 1–10."
+            },
+            {
+              "id": "A1.1-T3",
+              "label": "Time 5–6",
+              "timer": [5, 6],
+              "dato": null,
+              "marugoto_leksjoner": [5, 6],
+              "grammatikk": [],
+              "vokabular_sider": [],
+              "lenker": [],
+              "notater": null
+            },
+            {
+              "id": "A1.1-T4",
+              "label": "Time 7–8",
+              "timer": [7, 8],
+              "dato": null,
+              "marugoto_leksjoner": [7, 8],
+              "grammatikk": [],
+              "vokabular_sider": [],
+              "lenker": [],
+              "notater": null
+            },
+            {
+              "id": "A1.1-T5",
+              "label": "Time 9–10",
+              "timer": [9, 10],
+              "dato": null,
+              "marugoto_leksjoner": [9, 10],
+              "grammatikk": [],
+              "vokabular_sider": [],
+              "lenker": [],
+              "notater": null
+            },
+            {
+              "id": "A1.1-T6",
+              "label": "Time 11–12",
+              "timer": [11, 12],
+              "dato": null,
+              "marugoto_leksjoner": [11, 12],
+              "grammatikk": [],
+              "vokabular_sider": [],
+              "lenker": [],
+              "notater": null
+            }
+          ]
+        },
+        {
+          "id": "A1.2",
+          "label": "A1.2",
+          "timepar": [
+            {
+              "id": "A1.2-T1",
+              "label": "Time 1–2",
+              "timer": [1, 2],
+              "dato": null,
+              "marugoto_leksjoner": [],
+              "grammatikk": [],
+              "vokabular_sider": [],
+              "lenker": [],
+              "notater": null
+            },
+            {
+              "id": "A1.2-T2",
+              "label": "Time 3–4",
+              "timer": [3, 4],
+              "dato": null,
+              "marugoto_leksjoner": [],
+              "grammatikk": [],
+              "vokabular_sider": [],
+              "lenker": [],
+              "notater": null
+            },
+            {
+              "id": "A1.2-T3",
+              "label": "Time 5–6",
+              "timer": [5, 6],
+              "dato": null,
+              "marugoto_leksjoner": [],
+              "grammatikk": [],
+              "vokabular_sider": [],
+              "lenker": [],
+              "notater": null
+            },
+            {
+              "id": "A1.2-T4",
+              "label": "Time 7–8",
+              "timer": [7, 8],
+              "dato": null,
+              "marugoto_leksjoner": [],
+              "grammatikk": [],
+              "vokabular_sider": [],
+              "lenker": [],
+              "notater": null
+            },
+            {
+              "id": "A1.2-T5",
+              "label": "Time 9–10",
+              "timer": [9, 10],
+              "dato": null,
+              "marugoto_leksjoner": [],
+              "grammatikk": [],
+              "vokabular_sider": [],
+              "lenker": [],
+              "notater": null
+            },
+            {
+              "id": "A1.2-T6",
+              "label": "Time 11–12",
+              "timer": [11, 12],
+              "dato": null,
+              "marugoto_leksjoner": [],
+              "grammatikk": [],
+              "vokabular_sider": [],
+              "lenker": [],
+              "notater": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A2",
+      "label": "A2",
+      "moduler": [
+        {
+          "id": "A2.1",
+          "label": "A2.1",
+          "timepar": [
+            { "id": "A2.1-T1", "label": "Time 1–2", "timer": [1,2], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null },
+            { "id": "A2.1-T2", "label": "Time 3–4", "timer": [3,4], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null },
+            { "id": "A2.1-T3", "label": "Time 5–6", "timer": [5,6], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null },
+            { "id": "A2.1-T4", "label": "Time 7–8", "timer": [7,8], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null },
+            { "id": "A2.1-T5", "label": "Time 9–10", "timer": [9,10], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null },
+            { "id": "A2.1-T6", "label": "Time 11–12", "timer": [11,12], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null }
+          ]
+        },
+        {
+          "id": "A2.2",
+          "label": "A2.2",
+          "timepar": [
+            { "id": "A2.2-T1", "label": "Time 1–2", "timer": [1,2], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null },
+            { "id": "A2.2-T2", "label": "Time 3–4", "timer": [3,4], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null },
+            { "id": "A2.2-T3", "label": "Time 5–6", "timer": [5,6], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null },
+            { "id": "A2.2-T4", "label": "Time 7–8", "timer": [7,8], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null },
+            { "id": "A2.2-T5", "label": "Time 9–10", "timer": [9,10], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null },
+            { "id": "A2.2-T6", "label": "Time 11–12", "timer": [11,12], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null }
+          ]
+        },
+        {
+          "id": "A2.3",
+          "label": "A2.3",
+          "timepar": [
+            { "id": "A2.3-T1", "label": "Time 1–2", "timer": [1,2], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null },
+            { "id": "A2.3-T2", "label": "Time 3–4", "timer": [3,4], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null },
+            { "id": "A2.3-T3", "label": "Time 5–6", "timer": [5,6], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null },
+            { "id": "A2.3-T4", "label": "Time 7–8", "timer": [7,8], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null },
+            { "id": "A2.3-T5", "label": "Time 9–10", "timer": [9,10], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null },
+            { "id": "A2.3-T6", "label": "Time 11–12", "timer": [11,12], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null }
+          ]
+        }
+      ]
+    }
+  ]
+}
