@@ -3,7 +3,16 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
-    <title>Japansk Quiz</title>
+    <title>Japansk Quiz · Marugoto</title>
+    <meta name="theme-color" content="#f7f4ee" />
+    <link rel="manifest" href="manifest.json" />
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/marugoto-app/sw.js');
+        });
+      }
+    </script>
   </head>
   <body>
     <div id="root"></div>
