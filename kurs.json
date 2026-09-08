@@ -1,0 +1,390 @@
+{
+  "nivåer": [
+    {
+      "id": "A1",
+      "label": "A1",
+      "moduler": [
+        {
+          "id": "A1.1",
+          "label": "A1.1",
+          "timepar": [
+            {
+              "id": "A1.1-T1",
+              "label": "Time 1–2",
+              "timer": [1, 2],
+              "dato": null,
+              "marugoto_leksjoner": [1, 2],
+              "grammatikk": [
+                "Hajimemashite / Yoroshiku onegaishimasu",
+                "Greetings (あいさつ)"
+              ],
+              "vokabular_sider": [6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19],
+              "lenker": [
+                "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L01.pdf",
+                "https://www.irodori.jpf.go.jp/starter/audio/lesson01.html"
+              ],
+              "notater": "Første kurstime. Hilsener, klasseromsfraser, folk, jobb, familie, land."
+            },
+            {
+              "id": "A1.1-T2",
+              "label": "Time 3–4",
+              "timer": [3, 4],
+              "dato": "2023-01-17",
+              "marugoto_leksjoner": [3, 4],
+              "grammatikk": [
+                "N wa N desu",
+                "N mo N desu",
+                "N wa N desu ka",
+                "Hai / Iie, N wa N jya nai desu",
+                "Hajimemashite (repetisjon)"
+              ],
+              "vokabular_sider": [6, 10, 16, 17, 20, 80],
+              "lenker": [
+                "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L04.pdf",
+                "https://www.irodori.jpf.go.jp/starter/audio/lesson04.html",
+                "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L01.pdf",
+                "https://www.irodori.jpf.go.jp/starter/audio/lesson01.html",
+                "https://a1.marugotoweb.jp/en/can-do1.php"
+              ],
+              "notater": "Folk, familie, tall 1–10."
+            },
+            {
+              "id": "A1.1-T3",
+              "label": "Time 5–6",
+              "timer": [5, 6],
+              "dato": null,
+              "marugoto_ref": ["L5-1", "L6-1", "L6-3"],
+              "marugoto_leksjoner": [5, 6],
+              "grammatikk": [
+                "L6-1: すきな／きらいな N は N です — Sukina ryoori wa karee desu. (favoritt innen kategori)",
+                "L6-2: N(sted) で V ます — ラーメンやさんで ラーメンを たべます (handlingssted for å spise/drikke)",
+                "L6-3: N は い-adj です／N は い-adj くない です — Ano mise wa oishii desu. / takakunai desu."
+              ],
+              "vokabular_sider": [],
+              "lenker": [
+                "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L05.pdf",
+                "https://www.irodori.jpf.go.jp/starter/audio/lesson05.html",
+                "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L06.pdf",
+                "https://www.irodori.jpf.go.jp/starter/audio/lesson06.html"
+              ],
+              "notater": "Topic 3 Mat. すきな/きらいな som な-adjektiv. い-adjektiver og negasjonsform (-くない)."
+            },
+            {
+              "id": "A1.1-T4",
+              "label": "Time 7–8",
+              "timer": [7, 8],
+              "dato": null,
+              "marugoto_leksjoner": [7, 8],
+              "grammatikk": [],
+              "vokabular_sider": [],
+              "lenker": [],
+              "notater": null
+            },
+            {
+              "id": "A1.1-T5",
+              "label": "Time 9–10",
+              "timer": [9, 10],
+              "dato": null,
+              "marugoto_leksjoner": [9, 10],
+              "grammatikk": [],
+              "vokabular_sider": [],
+              "lenker": [],
+              "notater": null
+            },
+            {
+              "id": "A1.1-T6",
+              "label": "Time 11–12",
+              "timer": [11, 12],
+              "dato": null,
+              "marugoto_leksjoner": [11, 12],
+              "grammatikk": [],
+              "vokabular_sider": [],
+              "lenker": [],
+              "notater": null
+            }
+          ]
+        },
+        {
+          "id": "A1.2",
+          "label": "A1.2",
+          "timepar": [
+            {
+              "id": "A1.2-T1",
+              "label": "Time 1–2",
+              "timer": [1, 2],
+              "dato": null,
+              "marugoto_ref": ["L11-3", "L11-4"],
+              "marugoto_leksjoner": [11, 12],
+              "grammatikk": [
+                "L11-3: N(Place) で V ます — sted for handling (Uchi de eega o mimasu.)",
+                "L11-4: よく／ときどき／あまり／ぜんぜん — frekvensadverb (よく→Vます, あまり／ぜんぜん→Vません)"
+              ],
+              "vokabular_sider": [76, 77, 52, 53],
+              "vokabular_notater": "s.76: månedsdager (ついたち〜みそか), s.77: månedsnavn (いちがつ〜じゅうにがつ), s.52–53: begivenheter (たんじょうび、クリスマス etc.)",
+              "lenker": [
+                "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L11.pdf",
+                "https://www.irodori.jpf.go.jp/starter/audio/lesson11.html",
+                "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L12.pdf",
+                "https://www.irodori.jpf.go.jp/starter/audio/lesson12.html"
+              ],
+              "lekse": [
+                "Lydmaterialer s.1–13 (L11)",
+                "Vokabular: månedsdager, månedsnavn, begivenheter",
+                "YomoYomo + Tadoku lesebok: 畳生活 (たたみせいかつ) — Level 0"
+              ],
+              "notater": "Første time i A1.2. Urara ønsket velkommen til gruppen. Grammatikk fra Topic 6 Holidays and Days off 1 (L11). Lekse: lydmaterialer + lesebok 畳生活."
+            },
+            {
+              "id": "A1.2-T2",
+              "label": "Time 3–4",
+              "timer": [3, 4],
+              "dato": "2024-03-06",
+              "marugoto_ref": ["L12-1", "L12-2", "L12-3", "L12-4", "L12-5"],
+              "marugoto_leksjoner": [12],
+              "grammatikk": [
+                "L12-1: 時間 に V ます — spesifikt tidspunkt + に (いちがつに さっぽろに いきます). NB: きょう/あした/いつ tar ikke に.",
+                "L12-2: N に N が あります — begivenhet på tidspunkt (どようびに コンサートが あります)",
+                "L12-3: N(sted) で N が あります — begivenhet på sted (こくさいホールで えいがが あります)",
+                "L12-4: V-stem に いきます — formål for bevegelse (すもうを みに いきます / としょかんに ほんを よみに いきます)",
+                "L12-5: いっしょに V ませんか / V ましょう — invitasjon og aksept. Avslag: ～は ちょっと… すみません",
+                "Grammar Appendix: Sentence-final particles か（spørsmål/invitasjon）/ ね（enighet/empati）/ よ（gi info）"
+              ],
+              "vokabular_sider": [56, 57, 58, 59, 60, 31],
+              "vokabular_notater": "s.56–58: kjøretøy og trafikk, s.59–60: adjektiver 5, s.31: adjektiver 1. Daglig spørsmål: きょうは なんがつ なんにちですか",
+              "lenker": [
+                "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L12.pdf",
+                "https://www.irodori.jpf.go.jp/starter/audio/lesson12.html",
+                "https://a1.marugotoweb.jp/en/can-do32.php"
+              ],
+              "lekse": [
+                "Lytte: いっしょに みに いきませんか (Marugoto Starter A1 Katsudoo L12, Track 152–156)",
+                "Irodori s.3–12 (X_L12)",
+                "Can-do øvelse: a1.marugotoweb.jp/en/can-do32.php",
+                "YomoYomo lesebok: ちょっと… (Tadoku Level 0)"
+              ],
+              "notater": "Topic 6 Holidays and Days off 1, Lesson 12. Kombinasjonsstruktur fra Lesson memo: としょかんに ほんを よみに いきます. Daglig innsjekk: きょうは なんがつ なんにちですか."
+            },
+            {
+              "id": "A1.2-T3",
+              "label": "Time 5–6",
+              "timer": [5, 6],
+              "dato": "2024-03-13",
+              "marugoto_ref": ["L13-2", "L13-3", "L13-4"],
+              "marugoto_leksjoner": [13],
+              "grammatikk": [
+                "L13-2: N(sted) で N(transport) に のります／を おります — えきで でんしゃに のります. NB: のります→に, おります→を",
+                "L13-3: N1 は N2(transport) が いいです — anbefale transportmiddel (くうこうは でんしゃが いいです)",
+                "L13-4: ～ですから — gi grunn på slutten av setning (はやいですから / やすいですから / べんりですから)",
+                "Lesson memo: (transport)で いきます / あるいて いきます / どのぐらい かかりますか / ～ぐらい",
+                "Kombinasjonsstruktur (ランチに誘う): いっしょに ～を たべに いきませんか → ～は ～が いいですよ。～ですから。"
+              ],
+              "vokabular_sider": [32, 33, 34, 35, 36, 38, 79],
+              "vokabular_notater": "s.32: hjem, s.33–34: møbler, s.35–36: ting, s.38: adjektiver, s.79: posisjoner (うえ/した/まえ/うしろ etc.)",
+              "lenker": [
+                "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L13.pdf",
+                "https://www.irodori.jpf.go.jp/starter/audio/lesson13.html"
+              ],
+              "lekse": [
+                "Irodori s.8–15 (X_L13)",
+                "YomoYomo: にんじゃクイズ「一」(Tadoku L0) — adjektiver: あかい／まるい／あまい／くろい／しろい／ながい／ふとい／ほそい／あかるい",
+                "YomoYomo: あいちゃん 何歳？ — alder med さい: なんさい？／～さいです"
+              ],
+              "notater": "Topic 7 まち, Lesson 13. Lesson memo 13. mars: tanoshimi desu ne! Fokus på transport og veibeskrivelse. Neste gang: spill for vokabularpugging."
+            },
+            {
+              "id": "A1.2-T4",
+              "label": "Time 7–8",
+              "timer": [7, 8],
+              "dato": "2024-03-19",
+              "marugoto_ref": ["L7-1", "L7-2", "L7-4"],
+              "marugoto_leksjoner": [7],
+              "grammatikk": [
+                "L7-1: N(sted) に N が あります — inanimerte ting på sted (いえに エアコンが あります). Spørsmål: なにが ありますか",
+                "L7-2: N(sted) に N が います — levende vesener på sted (いえに ねこが います). Spørsmål: だれが いますか",
+                "L7-4: N は い-adj です／い-adj くない です — beskrive hus/rom (わたしの いえは せまいです / ふるいです)",
+                "Lesson memo: Place に arimasu / Place で V-masu / A と B の あいだ (mellom A og B)"
+              ],
+              "vokabular_sider": [32, 33, 34, 35, 36, 38, 79],
+              "vokabular_notater": "s.32: hjem, s.33–34: møbler, s.35–36: ting i huset, s.38: adjektiver, s.79: posisjoner (うえ/した/まえ/うしろ/となり/そば/あいだ etc.). Lesson memo: ゆか, くつした, おとこのひと, おとこのこ, おんなのひと, おんなのこ",
+              "lenker": [
+                "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L07.pdf",
+                "https://www.irodori.jpf.go.jp/starter/audio/lesson07.html"
+              ],
+              "lekse": [
+                "Irodori s.8–15 (X_L07)",
+                "YomoYomo: いました！(Tadoku Level 0) — あります/います kontrast; helligdomsdyr (いぬ/きつね/ねずみ/ねこ)",
+                "YomoYomo: ありますか？(Tadoku Level 0) — あります/ありません; mattyper i brød og udon"
+              ],
+              "notater": "Topic 4 いえ, Lesson 7. 19. mars. Urara: dere kan beskrive Mari Kondos rom og en by i Nepal på japansk! Neste gang: fortsetter med dagens grammatikk og vokabular. Shukudai: Irodori s.8–15 (X_L07)."
+            },
+            {
+              "id": "A1.2-T5",
+              "label": "Time 9–10",
+              "timer": [9, 10],
+              "dato": "2024-03-27",
+              "marugoto_ref": ["L8-1", "L14-1", "L14-2", "L14-3", "L14-4"],
+              "marugoto_leksjoner": [8, 14],
+              "grammatikk": [
+                "L8-1: N1 は N2 の [うえ/した/よこ/なか] です — posisjon av ting (ほんは たなの うえです)",
+                "L14-1: い-adj/な-adj + N som attributt — ふるい じんじゃ、にぎやかな まち (adjektiv modifiserer substantiv)",
+                "L14-2: N(sted) に N が あります — bygninger/steder i en by (さいたまに ゆうめいな はくぶつかんが あります)",
+                "L14-3: N1 は N2 の [まえ/うしろ/となり/ちかく] です — posisjon i by-kontekst (ぎんこうは こんびにの となりです)",
+                "L14-4: N1 は N2 の～ に あります/います — kombinert posisjons- og eksistensstruktur (きっさてんは えきの となりに あります)",
+                "Sentence-final particles (repetisjon): か（spørsmål）/ ね（enighet/empati）/ よ（gi info）",
+                "Lesson memo: い-adj predikat vs な-adj predikat — すしは おいしいです / へやは きれいな です. 時差ぼけ (jetlag) som samtaleemne"
+              ],
+              "vokabular_sider": [66, 67, 68, 69, 72, 73, 81],
+              "vokabular_notater": "s.66–67: gaver og suvenirer, s.68–69: adjektiver 7, s.72–73: farger, s.81: alle tellemåter",
+              "lenker": [
+                "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L07.pdf",
+                "https://www.irodori.jpf.go.jp/starter/audio/lesson07.html",
+                "https://a1.marugotoweb.jp/en/can-do16.php",
+                "https://a1.marugotoweb.jp/en/can-do17.php",
+                "https://a1.marugotoweb.jp/en/can-do20.php",
+                "https://a1.marugotoweb.jp/en/can-do21.php"
+              ],
+              "lekse": [
+                "Irodori s.1–7 (X_L07)",
+                "Can-do: can-do16, can-do17, can-do20, can-do21",
+                "YomoYomo: 赤い… (Tadoku Level 0) — あかい som gjennomgående adjektiv; romantisk fortelling",
+                "YomoYomo: いろいろなことば — い-adj og な-adj i naturlige setninger (せまい、ひろい、しずか、にぎやか etc.)",
+                "YomoYomo: 花と色 — fargeadjektiver og あります om japanske blomster (さくら、あじさい、はす、ゆり)"
+              ],
+              "notater": "Topic 4 いえ (L8) + Topic 7 まち (L14). 27. mars. Urara: dere snakket mye og blir flinkere! Neste gang: spill igjen."
+            },
+            {
+              "id": "A1.2-T6",
+              "label": "Time 11–12",
+              "timer": [11, 12],
+              "dato": "2026-04-03",
+              "marugoto_ref": ["L15-1", "L15-2", "L15-3"],
+              "marugoto_leksjoner": [15],
+              "grammatikk": [
+                "L15-1: N が ほしいです — si hva man vil ha (ほしい bøyes som い-adjektiv; negasjon: ほしくないです)",
+                "L15-2: N1 は N2 に N3 を あげます — gi noe til noen (N1=giver, N2=mottaker med に, N3=objekt)",
+                "L15-3: N1 は N2 に N3 を もらいます — motta noe fra noen (N1=mottaker, N2=giver med に, N3=objekt)"
+              ],
+              "vokabular_sider": [66, 67, 68, 69, 70, 71, 72, 73, 74, 80],
+              "vokabular_notater": "s.66–74: かいもの (shopping/gavekjøp), s.80: store tall",
+              "lenker": [
+                "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L15.pdf",
+                "https://www.irodori.jpf.go.jp/starter/audio/lesson15.html"
+              ],
+              "lekse": [
+                "Vokabular: s.66–74 かいもの, s.80 store tall (til A2.1-T1)",
+                "Tadoku: 野菜の花 (Level 0), まぐろのかぞえかた, 白い？黒い？ (Level 0)"
+              ],
+              "notater": "Siste time i A1-nivå. Urara gratulerte gruppen — すごい！Lesson 15 er Starter A2 Topic 8 (かいもの). V-mashita / V-masendeshita repetert. Lekse: vokabular til A2.1 + lesebøker."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A2",
+      "label": "A2",
+      "moduler": [
+        {
+          "id": "A2.1",
+          "label": "A2.1",
+          "timepar": [
+            {
+              "id": "A2.1-T1",
+              "label": "Time 1–2",
+              "timer": [1, 2],
+              "dato": "2024-04-10",
+              "marugoto_ref": ["L15-4", "L16-1", "L16-2", "L17-1"],
+              "marugoto_leksjoner": [16, 17],
+              "grammatikk": [
+                "L15-4: V-ました / V-ませんでした — fortid affirmasjon/negasjon (repetisjon: きょねん にほんで とけいを かいました)",
+                "L16-1: N は いくらですか — spørre om pris (すみません、このシャツは いくらですか。／ せんにひゃくえんです。). こ/そ/あ + N は いくらですか",
+                "L16-2: N を ください — be om en vare i butikk (このカメラを ください。／ これ、ください。)",
+                "L17-1: V-ました / V-ませんでした — fortid i ny kontekst fridager/shopping (きのう デパートに いきました。／ いいえ、いきませんでした。)",
+                "Lesson memo: あおい シャツ (adjektiv + substantiv) vs あおの シャツ (N の N); いくらですか i shopping-kontekst; store tall (せん、いちまん etc.)"
+              ],
+              "vokabular_sider": [31, 38, 50, 51, 59, 60, 63, 64, 68, 8, 9, 40, 41, 42, 43, 49, 77],
+              "vokabular_notater": "Repetisjon: adjektiver (s.31,38,50,51,59,60,63,64,68), verb (s.8,9,40,41,42,43,49), tidsuttrykk uke/måned/år (s.77 midten). Urara: bli ferdig med ordboka neste uke.",
+              "lenker": [
+                "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L16.pdf",
+                "https://www.irodori.jpf.go.jp/starter/audio/lesson16.html",
+                "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L17.pdf",
+                "https://www.irodori.jpf.go.jp/starter/audio/lesson17.html",
+                "https://a1.marugotoweb.jp/en/can-do43.php"
+              ],
+              "lekse": [
+                "Irodori L16 s.1–11",
+                "Irodori L17 s.1–3",
+                "Video: can-do43 (https://a1.marugotoweb.jp/en/can-do43.php)",
+                "Vokabularrepetisjon: adjektiver (s.31,38,50,51,59,60,63,64,68), verb (s.8,9,40,41,42,43,49), tidsuttrykk (s.77)",
+                "Adjektivformer nåtid og fortid れんしゅう — se vedlegg (Adjektiv form 練習.pdf). Lær på forhånd til neste gang.",
+                "YomoYomo: あいちゃん（ねずみ）— tenk på あっち／こっち／そっち／どこ"
+              ],
+              "notater": "Første time i A2.1. 10. april 2024. Repetisjon av V-mashita/masendeshita og vokabular. Ny grammatikk: いくらですか og N を ください (shopping). Lesson memo: adjektiv vs substantiv-form av farger (あおい シャツ vs あおの シャツ). Urara: A2.1 har mye nytt — おたのしみに！"
+            },
+            {
+              "id": "A2.1-T2",
+              "label": "Time 3–4",
+              "timer": [3, 4],
+              "dato": "2024-04-17",
+              "marugoto_ref": ["L17-2", "L18-1", "L18-2", "L18-3"],
+              "marugoto_leksjoner": [17, 18],
+              "grammatikk": [
+                "L17-2: い-adj かった／くなかった + な-adj でした／じゃなかった — adjektiv i fortid (かいものは たのしかったです。／ デパートは にぎやかでした。／ ホテルの へやは あまり しずかじゃなかったです。) Spørsmål: N は どうでしたか",
+                "L18-1: S1。それから、S2。— kronologisk rekkefølge av handlinger (おてらを みました。それから、おみやげを かいました。)",
+                "L18-2: S1。でも、S2。／ S1。そして、S2。— kontrast og tillegg (おすしは おいしかったです。でも、たかかったです。／ かぶきは きれいでした。そして、おもしろかったです。)",
+                "L18-3: V-たいです／V-たくないです — uttrykke ønsker (きょうとに いきたいです。／ つぎは なにを したいですか。) たい bøyes som い-adjektiv",
+                "Lesson memo: い-adj + substantiv (おいしい すし) vs な-adj + substantiv (きれいな はな). N は きれいな です. かっこいいです. に あいます. うたいます"
+              ],
+              "vokabular_sider": [],
+              "vokabular_notater": "Nye vokabularlister A2.1(1) og A2.1(2) delt ut som vedlegg. Marugoto A2 vokabularindeks som referanse.",
+              "lenker": [
+                "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L17.pdf",
+                "https://www.irodori.jpf.go.jp/starter/audio/lesson17.html",
+                "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L18.pdf",
+                "https://www.irodori.jpf.go.jp/starter/audio/lesson18.html",
+                "https://marugoto.jpf.go.jp/assets/docs/download/elementary1_c/MarugotoElementary1CompetencesVocabularyIndex2_EN.pdf",
+                "https://marugoto.jpf.go.jp/assets/docs/download/elementary1_a/MarugotoElementary1ActivitiesVocabularyIndex2_EN.pdf"
+              ],
+              "lekse": [
+                "Irodori L17 s.4–8",
+                "Irodori L18 s.1–7 (valgfritt: s.10–13, litt vanskelig)",
+                "Muntlig oppgave: snakk om en reise du har vært på — bruk 15–20 verb og 20 adjektiver (10 affirmativ + 10 negativ). Øv uten manus, maks 3 min. Kan sende bilder til Urara før timen.",
+                "Vokabular: studer A2.1(1) og A2.1(2) vedlegg, finn betydninger i Marugoto A2-listen. Pugg til neste time.",
+                "YomoYomo"
+              ],
+              "notater": "17. april 2024. Adjektiv i fortid (い og な). Setningsforbindere それから / でも / そして. V-たいです for ønsker. Lesson memo: い-adj vs な-adj foran substantiv. Urara: dere jobbet bra — jobb hardt og kos dere!"
+            },
+            { "id": "A2.1-T3", "label": "Time 5–6", "timer": [5,6], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null },
+            { "id": "A2.1-T4", "label": "Time 7–8", "timer": [7,8], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null },
+            { "id": "A2.1-T5", "label": "Time 9–10", "timer": [9,10], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null },
+            { "id": "A2.1-T6", "label": "Time 11–12", "timer": [11,12], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null }
+          ]
+        },
+        {
+          "id": "A2.2",
+          "label": "A2.2",
+          "timepar": [
+            { "id": "A2.2-T1", "label": "Time 1–2", "timer": [1,2], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null },
+            { "id": "A2.2-T2", "label": "Time 3–4", "timer": [3,4], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null },
+            { "id": "A2.2-T3", "label": "Time 5–6", "timer": [5,6], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null },
+            { "id": "A2.2-T4", "label": "Time 7–8", "timer": [7,8], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null },
+            { "id": "A2.2-T5", "label": "Time 9–10", "timer": [9,10], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null },
+            { "id": "A2.2-T6", "label": "Time 11–12", "timer": [11,12], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null }
+          ]
+        },
+        {
+          "id": "A2.3",
+          "label": "A2.3",
+          "timepar": [
+            { "id": "A2.3-T1", "label": "Time 1–2", "timer": [1,2], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null },
+            { "id": "A2.3-T2", "label": "Time 3–4", "timer": [3,4], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null },
+            { "id": "A2.3-T3", "label": "Time 5–6", "timer": [5,6], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null },
+            { "id": "A2.3-T4", "label": "Time 7–8", "timer": [7,8], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null },
+            { "id": "A2.3-T5", "label": "Time 9–10", "timer": [9,10], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null },
+            { "id": "A2.3-T6", "label": "Time 11–12", "timer": [11,12], "dato": null, "marugoto_leksjoner": [], "grammatikk": [], "vokabular_sider": [], "lenker": [], "notater": null }
+          ]
+        }
+      ]
+    }
+  ]
+}
